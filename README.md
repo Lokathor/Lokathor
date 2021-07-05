@@ -1,5 +1,3 @@
-# Lokathor
-
 Hi, I work on Rust stuff.
 
 ## 1.0 Crates
